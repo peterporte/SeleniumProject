@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Element Interaction", "Element Interaction", "{7733246C-160B-48B6-B763-2FCAE7CF3C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElementInteraction", "ElementInteraction\ElementInteraction.csproj", "{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebDriverTimeoutTutorial", "WebDriverTimeoutTutorial", "{06DC4E4A-9065-4B7A-B98C-935B0FC7F6EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTimeoutsTutorial", "WebDriverTimeoutsTutorial\WebDriverTimeoutsTutorial.csproj", "{F2549C0E-6ED6-4414-9548-11EE6329F0A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInteraction", "UserInteraction\UserInteraction.csproj", "{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObject", "PageObject\PageObject.csproj", "{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice", "TDDPractice\TDDPractice.csproj", "{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2549C0E-6ED6-4414-9548-11EE6329F0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2549C0E-6ED6-4414-9548-11EE6329F0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2549C0E-6ED6-4414-9548-11EE6329F0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2549C0E-6ED6-4414-9548-11EE6329F0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15CC11F9-176C-4AFE-8DD1-DE960B7B7DF7} = {7733246C-160B-48B6-B763-2FCAE7CF3C78}
+		{F2549C0E-6ED6-4414-9548-11EE6329F0A3} = {06DC4E4A-9065-4B7A-B98C-935B0FC7F6EE}
+		{58CB34CC-E4F2-445D-B0A1-EE51662CDA71} = {7733246C-160B-48B6-B763-2FCAE7CF3C78}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69B36DD-E164-461F-A6B8-89CD9B08D78E}
+	EndGlobalSection
+EndGlobal

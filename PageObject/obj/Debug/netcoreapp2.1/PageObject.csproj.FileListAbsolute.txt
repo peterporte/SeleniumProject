@@ -1,0 +1,15 @@
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\PageObject.deps.json
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\PageObject.runtimeconfig.json
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\PageObject.runtimeconfig.dev.json
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\PageObject.dll
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.AssemblyInfoInputs.cache
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.AssemblyInfo.cs
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\chromedriver.exe
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\bin\Debug\netcoreapp2.1\PageObject.pdb
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.dll
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.pdb
+C:\Users\pporte\source\repos\SeleniumProject\PageObject\obj\Debug\netcoreapp2.1\PageObject.csprojAssemblyReference.cache

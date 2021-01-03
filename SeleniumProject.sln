@@ -13,9 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDriverTimeoutsTutorial",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInteraction", "UserInteraction\UserInteraction.csproj", "{58CB34CC-E4F2-445D-B0A1-EE51662CDA71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageObject", "PageObject\PageObject.csproj", "{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PageObject", "PageObject\PageObject.csproj", "{FB0CB56E-8C93-47EA-BD30-5AB0FC59AFCF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice", "TDDPractice\TDDPractice.csproj", "{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleFramework1", "SampleFramework1\SampleFramework1.csproj", "{46A68D8F-D93A-4A70-91D2-5857365E027D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +45,10 @@ Global
 		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D1A6264-73D6-48B0-8D1B-37A8762C7EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

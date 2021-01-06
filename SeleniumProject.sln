@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDPractice", "TDDPractice\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleFramework1", "SampleFramework1\SampleFramework1.csproj", "{46A68D8F-D93A-4A70-91D2-5857365E027D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp2", "SampleApp2\SampleApp2.csproj", "{751C0C6A-0AC9-4691-BF1D-968BE0E0526F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A68D8F-D93A-4A70-91D2-5857365E027D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{751C0C6A-0AC9-4691-BF1D-968BE0E0526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751C0C6A-0AC9-4691-BF1D-968BE0E0526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751C0C6A-0AC9-4691-BF1D-968BE0E0526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751C0C6A-0AC9-4691-BF1D-968BE0E0526F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

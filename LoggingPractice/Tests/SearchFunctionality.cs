@@ -24,6 +24,7 @@ namespace SampleApp2
         [TestMethod]
         public void TCID1()
         {
+            //Sample without using BaseTest inheritanc
             var itemToSearchFor = "Blouse";
 
             HomePage homePage = new HomePage(Driver);

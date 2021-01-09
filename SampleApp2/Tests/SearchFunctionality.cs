@@ -14,8 +14,6 @@ namespace SampleApp2
     public class SearchFunctionality
     {
         public IWebDriver Driver { get; private set; }
-        
-
         private WebDriverWait wait;
 
 
@@ -24,6 +22,7 @@ namespace SampleApp2
         [TestMethod]
         public void TCID1()
         {
+            //Sample without using BaseTest inheritance
             var itemToSearchFor = "Blouse";
 
             HomePage homePage = new HomePage(Driver);

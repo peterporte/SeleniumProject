@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApp2", "SampleApp2\Sa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingPractice", "LoggingPractice\LoggingPractice.csproj", "{55668CFB-464E-40B5-BEC6-99B8B687C754}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingReports", "CreatingReports\CreatingReports.csproj", "{E2CBA12C-805B-44E0-A6E5-6164FC468859}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -61,6 +63,10 @@ Global
 		{55668CFB-464E-40B5-BEC6-99B8B687C754}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55668CFB-464E-40B5-BEC6-99B8B687C754}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55668CFB-464E-40B5-BEC6-99B8B687C754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2CBA12C-805B-44E0-A6E5-6164FC468859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2CBA12C-805B-44E0-A6E5-6164FC468859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2CBA12C-805B-44E0-A6E5-6164FC468859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2CBA12C-805B-44E0-A6E5-6164FC468859}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

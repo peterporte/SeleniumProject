@@ -3,6 +3,7 @@ using NLog;
 using OpenQA.Selenium;
 using AventStack.ExtentReports;
 using OpenQA.Selenium.Support.UI;
+using ExpectedConditions = SeleniumExtras.WaitHelpers.ExpectedConditions;
 
 namespace CreatingReports.Pages
 {
@@ -24,8 +25,9 @@ namespace CreatingReports.Pages
                     Reporter.LogTestStepForBugLogger(Status.Info,
                         "Validate that Contact Us page loaded successfully.");
                     WebDriverWait wait = new WebDriverWait(Driver, TimeSpan.FromSeconds(10));
-                    return Driver.FindElement(By.Id("center_column")).Displayed;
-                    
+                    var isLoaded = wait.Until(ExpectedConditions.ElementIsVisible(By.Id("center_column"))).Displayed;
+                    return isLoaded;
+
                 }
                 catch (NoSuchElementException)
                 {

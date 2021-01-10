@@ -14,9 +14,15 @@ namespace CreatingReports.Pages
         public HomePage(IWebDriver driver) : base(driver)
         {
             Slider = new Slider(driver);
+            Header = new HeaderSection(driver);
+            
+            
         }
 
         public Slider Slider { get; internal set; }
+        public HeaderSection Header { get; set; }
+        //public HeaderSection Header => new HeaderSection(Driver);
+
 
 
         public IWebElement searchBox => Driver.FindElement(By.Id("search_query_top"));
@@ -35,7 +41,7 @@ namespace CreatingReports.Pages
             }
         }
 
-        //public HeaderSection Header => new HeaderSection(Driver);
+
 
         internal void GoTo()
         {
